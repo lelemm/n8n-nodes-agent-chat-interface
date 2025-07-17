@@ -544,6 +544,8 @@ The source code is not available, but feel free to use this node
 
 Your chat interface will be served as static content with full customization and zero infrastructure overhead! 
 
-## Feature ask and contact
+## Donation
 
-You can find me at https://github.com/lelemm/n8n-nodes-agent-chat-interface
+Did you like my node? Pay me a coffee :)
+
+[![Donate with PayPal](https://img.shields.io/badge/🍵%20Donate-PayPal-blue)](https://www.paypal.com/donate/?business=9XAQZP7QF2RUG&no_recurring=0&item_name=You+can+ask+for+features+using+the+email%3A+lelemm2+at+gmail+dot+com&currency_code=USD)
